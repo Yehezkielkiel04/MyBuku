@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "judul": "Dilan 1990",
+    "penulis": "Pidi Baiq",
+    "imageId": "https://raw.githubusercontent.com/Yehezkielkiel04/MyBuku/main/images/Dilan%201990.jpg",
+    "mine": "true"
+  },
+  {
+    "id": "2",
+    "judul": "Laut Bersuara",
+    "penulis": "Leila S. Chudori",
+    "imageId": "https://raw.githubusercontent.com/Yehezkielkiel04/MyBuku/main/images/Laut%20Bercerita.jpg",
+    "mine": "false"
+  }
+]
